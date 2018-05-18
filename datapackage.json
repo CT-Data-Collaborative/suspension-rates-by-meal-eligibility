@@ -1,7 +1,7 @@
 {
   "name": "suspension-rates-by-meal-eligibility",
   "datapackage_version": "1.0-beta.18",
-  "title": "Suspension-Rates-by-Meal-Eligibility",
+  "title": "Suspension Rates by Meal Eligibility",
   "description": "Suspension Rate reports the percentage of students who have received at least one sanction (ISS, OSS, EXP) during a school year, for students eligible for free/reduced price meals.",
   "version": "1.0",
   "licenses": [{
