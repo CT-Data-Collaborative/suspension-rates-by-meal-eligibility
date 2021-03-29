@@ -21,7 +21,7 @@
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/suspension_rates_by_meals_2017.csv",
+    "path": "data/suspension_rates_by_meals_2020.csv",
     "format": "csv",
     "schema": {
       "fields": [{
